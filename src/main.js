@@ -3,6 +3,7 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import Request from "./utils/request";
+import global from "./components/globalComponent";
 
 // 按需引入 vant 组件
 import { Button } from "vant";

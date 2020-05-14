@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <div>scaffold-vant</div>
+    <div>I am Scaffold-vant</div>
   </div>
 </template>
 
