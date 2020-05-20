@@ -7,16 +7,16 @@
 
 <script>
 export default {
-  name: "Home",
+  name: 'Home',
   components: {},
   data() {
-    return {};
+    return {}
   },
   computed: {},
   created() {},
   mounted() {},
-  methods: {},
-};
+  methods: {}
+}
 </script>
 
 <style scoped lang="scss"></style>

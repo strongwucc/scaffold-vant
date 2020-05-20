@@ -6,17 +6,17 @@
  * imgBaseUrl: 图片所在域名地址
  *
  */
-let rootUrl = "";
-let baseUrl = "";
+let rootUrl = ''
+let baseUrl = ''
 
 // eslint-disable-next-line no-undef
-if (process.env.NODE_ENV === "development") {
-  rootUrl = "";
-  baseUrl = "";
+if (process.env.NODE_ENV === 'development') {
+  rootUrl = ''
+  baseUrl = ''
   // eslint-disable-next-line no-undef
-} else if (process.env.NODE_ENV === "production") {
-  rootUrl = "";
-  baseUrl = "";
+} else if (process.env.NODE_ENV === 'production') {
+  rootUrl = ''
+  baseUrl = ''
 }
 
-export { rootUrl, baseUrl };
+export { rootUrl, baseUrl }
